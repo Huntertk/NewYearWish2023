@@ -38,12 +38,12 @@ h1,h2,h4,p{
 .gift-img{
     margin: 10px auto 20px auto;
     background-size: cover;
-    height: 400px;
+    height: 300px;
     background-image: url('./gift-cover.jpg');
     border-radius: 10px;
     box-shadow: 8px 8px 10px #000;
     border: 8px solid #ffffff;
-    width: 400px;
+    width: 300px;
 }
 #gift1:hover{
     background-image: url('https://media3.giphy.com/media/RpHHzWCTyxArcRdOS0/200w.webp?cid=ecf05e474z0hxogkijnpj5lwbdm9dr1m5xzt9tvg19f8juv1&rid=200w.webp&ct=g');
